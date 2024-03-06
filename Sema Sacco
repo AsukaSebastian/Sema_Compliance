@@ -30,7 +30,7 @@
     <!-- Navigation -->
     <nav class="navbar navbar-expand-lg navbar-light fixed-top" id="mainNav">
       <div class="container">
-        <a class="navbar-brand js-scroll-trigger" href="#page-top">Sebastian Munyasia</a>
+        <a class="navbar-brand js-scroll-trigger" href="#page-top">Sema Compliance</a>
         <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
           <span class="navbar-toggler-icon"></span>
         </button>
@@ -58,13 +58,13 @@
         <div class="row">
           <div class="col-lg-10 mx-auto">
             <h1 class="text-uppercase">
-              <strong>Sebastian Munyasia </strong>
+              <strong>Sema Compliance </strong>
             </h1>
             <hr>
           </div>
           <div class="col-lg-8 mx-auto">
-            <p class="text-faded mb-5">Committed to serve!</p>
-            <a class="btn btn-primary btn-xl js-scroll-trigger" href="#about">About Me</a>
+            <p class="text-faded mb-5">We’re a tech platform, a community build on blockchain</p>
+            <a class="btn btn-primary btn-xl js-scroll-trigger" href="#about">About US</a>
           </div>
         </div>
       </div>
@@ -74,7 +74,7 @@
       <div class="container">
         <div class="row">
           <div class="col-lg-8 mx-auto text-center">
-            <h2 class="section-heading text-white">About.</h2>
+            <h2 class="section-heading text-white">About Us</h2>
             <hr class="light my-4">
             <p class="text-faded mb-4">I am God-fearing young Kenyan, hardworking and education-valuing individual, having participated in several developing activities both in campus, high school and primary school. I am confident in what I do and spent my campus life doing a number of database management schemes keen to develop my career in field of statistics and data analysis. I am well equipped with skills to reach out and inspire others to unlock their potential(s) and become successful individuals..</p>
           </div>
